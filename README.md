@@ -1,32 +1,43 @@
-# Hi, I'm Fabian 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:512BD4,100:3178C6&height=220&section=header&text=Fabian%20Koch%20De%20Nigris&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20.NET%20%C2%B7%20React%20%C2%B7%20Cloud-Native&descSize=18&descAlignY=62&descColor=cbd5e1" />
 
-**Software Engineer** · Backend & Frontend · .NET Ecosystem
+## 🙋‍♂️ About me
 
-I build scalable, secure and maintainable software, from robust C# backends to modern React frontends.
+I'm a Software Engineer focused on backend and frontend development in the .NET ecosystem. I care about clean software architecture, IT security and modern development practices, and I use AI to improve workflows, code quality and problem-solving.
 
-## 🔭 What I'm working on
+## 👨‍💻 Facts
 
-- ⚛️ Modern frontends with **React** and **TypeScript**
-- 🏛️ **Digital sovereignty**: open standards, self-hosted infrastructure and independence from vendor lock-in
-- 🤖 **AI-assisted software engineering**: better workflows, code quality and problem-solving
-- 🔐 Software architecture and IT security
+- ⚛️ Currently building a lot with **React** and **TypeScript**
+- 🏛️ Exploring **digital sovereignty**: open standards, self-hosting and avoiding vendor lock-in
+- ☁️ Working with **AWS**, **Docker**, **Kubernetes** and **Terraform**
+- 🤖 Interested in AI-assisted software engineering
+- 📫 How to reach me: [LinkedIn](DEIN-LINKEDIN-LINK)
 
-## 🛠️ Tech Stack
+## 💪 Skills
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+### Main Stack
 
-**Also:** .NET MAUI · cross-platform & Apple platform development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,cs,dotnet" />
+</p>
 
-## 🎯 My goal
+### Cloud & DevOps
 
-Combining solid engineering principles with modern technologies to build scalable, secure and innovative software, with a strong focus on digital sovereignty.
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform" />
+  <img src="https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white" />
+</p>
 
-`#SoftwareEngineering` `#DotNet` `#CSharp` `#React` `#TypeScript` `#DigitalSovereignty` `#AI` `#SoftwareArchitecture`
+### Also experienced with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,java,cpp,python" />
+</p>
+
+## 📊 GitHub Stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DEIN-USER&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN-USER&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:0F172A&height=100&section=footer" />
