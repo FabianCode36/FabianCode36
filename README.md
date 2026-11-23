@@ -33,11 +33,4 @@ I'm a Software Engineer focused on backend and frontend development in the .NET 
   <img src="https://skillicons.dev/icons?i=html,css,java,cpp,python" />
 </p>
 
-## 📊 GitHub Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DEIN-USER&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN-USER&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:0F172A&height=100&section=footer" />
